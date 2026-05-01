@@ -37,3 +37,4 @@ reminder_reactions = {
         "no":  {"state": "sad",     "bubble": "but we need food... :(","duration": 1800},
     },
 }
+
