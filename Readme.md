@@ -256,7 +256,7 @@ she's safe. she's just a cat. 🐾
 
 <br>
 
-![bye](https://img.shields.io/badge/see%20you%20on%20your%20desktop-%F0%9F%90%BE%20%E2%99%A1-f4a7c3?style=for-the-badge&labelColor=2d1b3d)
+![bye]![hacha](cat/love.png)
 
 <br>
 
