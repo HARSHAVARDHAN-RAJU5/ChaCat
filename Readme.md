@@ -152,7 +152,7 @@ git clone https://github.com/yourusername/hacha.git
 cd hacha
 
 # install dependencies
-pip install pygame google-generativeai pywin32
+pip install pygame google-generativeai pywin32 
 
 # run!!
 python main.py
